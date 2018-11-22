@@ -1,6 +1,6 @@
-# Angularmaterial
+# Angular Material Contact List
 
-A Material Desgin Based Application built using Angular Material Library.
+A Material Desgin Contact List Application built using Angular Material Library.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
 
